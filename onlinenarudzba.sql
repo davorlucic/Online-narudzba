@@ -9,7 +9,7 @@ prezime				varchar(50) not null,
 longitude			float(10,6) not null,
 latitude			float(10,6) not null,
 broj_telefona		varchar(50) not null,
-mail				varchar(50) not null,
+email				varchar(50) not null,
 password			varchar(50) not null
 );
 
